@@ -1,0 +1,51 @@
+body{
+    font-weight: 400;
+    font-family: Lato, Helvetica, sans-serif;
+    font-size: 15px;
+    line-height: 2.2 em;
+    color: black;
+    background-color: lightblue;
+    margin: 0;
+}
+
+header{
+    background-color:white;
+
+}
+
+section,footer{
+    margin: 40px;
+}
+
+
+h1{
+    font-size: 80px;
+    color: red;
+    padding: 10px;
+    text-align: center;
+}
+
+h2{
+    font-size: 35 px;
+    color:blue;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+table{
+    width: 100%;
+}
+
+table td{
+    color: blue;
+    padding: 5px;
+    font-size: 15px;
+    background-color: whitesmoke;
+}
+
+table thead th{
+    background-color: white;
+    color: red;
+    font-size: 20px;
+}
+
